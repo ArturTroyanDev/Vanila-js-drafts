@@ -3,11 +3,25 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Vanilla-js-drafts</title>
+    <link rel="stylesheet" href="styles.css"
+    <title>Super calculator</title>
 </head>
 <body>
-    <header>some header</header>
-    <main>some content</main>
-    <footer>some footer</footer>
+    <header></header>
+    <main>
+        <div class="container">
+            <div class="input__wrapper">
+                <input id="input1" type="number">
+                <input id="input2" type="number">
+                <button id="calculateButton">Calculate sum!</button>
+            </div>
+            <div class="display__wrapper">
+                <div class="display__result" id="result">0</div>
+                <button class="display__reset-button" id="resetButton">Reset</button>
+            </div>
+        </div>
+    </main>
+    <footer></footer>
+    <script src="someLogic.js"></script>
 </body>
 </html>
