@@ -33,4 +33,5 @@ starts with a verb
 use present simple
 no capital letters
 statements are separated from each other by semicolons
+<!-- Category/description; more description -->
 feat: add new button component; add new button components to templates
