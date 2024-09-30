@@ -28,6 +28,7 @@ style - fix typos, fix formatting
 refactor - application code refactoring
 test - everything related to testing
 chore - routine code maintenance
+merge: for merging two branches
 2. Description
 starts with a verb
 use present simple
